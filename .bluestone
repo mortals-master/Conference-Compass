@@ -4,7 +4,7 @@ project:
   version: "0.1"
   status:
     description:
-      title: "Draft"
+      title: "Published"
       details: null
       icon: null
       background: null

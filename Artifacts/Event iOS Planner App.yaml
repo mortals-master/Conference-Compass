@@ -1,0 +1,24 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://github.com/Mortals-dev/iOS-PlannerApp/tree/master"
+name: "Event iOS Planner App"
+id: "Event-iOS-Planner-App"
+type:
+  name: "iOS Project"
+  goals: null
+features: null
+goals: null
+application: null
+source:
+  url: "https://github.com/Mortals-dev/iOS-PlannerApp/tree/master"
+  type: "Github"
+description:
+  title: null
+  details: "iOS Planner app for creating new plans, organize and assign tasks, share\
+    \ files and get updates on progress"
+  icon:
+  - "sap-icon://iphone"
+  background: null
+  moreInfo: null
+  other: null

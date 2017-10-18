@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://github.com/Mortals-dev/iOS-Hybrid-App"
+name: "Event iOS hybrid App"
+id: "Event-iOS-hybrid-App"
+type:
+  name: "iOS Hybrid Mobile Project"
+  goals: null
+features: null
+goals: null
+application: null
+source:
+  url: "https://github.com/Mortals-dev/iOS-Hybrid-App"
+  type: "GitHub"
+description:
+  title: null
+  details: "An hybrid mobile app built with combination of technologies."
+  icon:
+  - "sap-icon://iphone"
+  background: null
+  moreInfo: null
+  other: null

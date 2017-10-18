@@ -1,0 +1,25 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://github.com/Mortals-dev/iOS-Attendee-Application"
+name: "Event iOS Attendee App"
+id: "Event-iOS-Attendee-App"
+type:
+  name: "iOS Project"
+  goals: null
+features: null
+goals: null
+application: null
+source:
+  url: "https://github.com/Mortals-dev/iOS-Attendee-Application"
+  type: "Github"
+description:
+  title: null
+  details: "iOS Attendee app is  a simple applicationl that lets you organize and\
+    \ communicate with event attendees effortlessly and also view a newsfeed, build\
+    \ agendas, create surveys and upload floor plans"
+  icon:
+  - "sap-icon://iphone"
+  background: null
+  moreInfo: null
+  other: null
