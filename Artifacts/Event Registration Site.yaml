@@ -3,12 +3,8 @@ configuration:
 - key: "launchUrl"
   value: "https://www.sap.com/about/events.html"
 name: "Event Registration Site"
-id: "Event-Registration-Site"
-type:
-  name: "Website"
-  goals: null
+artifactTypeId: "Website"
 features: null
-goals: null
 application: null
 source:
   url: "https://www.sap.com/about/events.html"

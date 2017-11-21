@@ -3,12 +3,8 @@ configuration:
 - key: "launchUrl"
   value: "https://github.com/Mortals-dev/iOS-Attendee-Application"
 name: "Event iOS Attendee App"
-id: "Event-iOS-Attendee-App"
-type:
-  name: "iOS Project"
-  goals: null
+artifactTypeId: "iOS App"
 features: null
-goals: null
 application: null
 source:
   url: "https://github.com/Mortals-dev/iOS-Attendee-Application"
